@@ -9,6 +9,7 @@ The connection details of the server are passed through a config.ini file. For s
 
 ## Config.ini File Pattern
 
+```
 [mysqldb]
 hostname = ""
 user_name = Abishek
@@ -16,24 +17,27 @@ password = ""
 db_name = db_name
 table_name = platform_events
 port = 3306
+```
 
 ## Getting Started
 
-Create a virtual environment for the project using:
+**Create a virtual environment for the project:**
 
 python3 -m venv env_name
 
 source env_name/bin/activate
 
+deactivate - to exit virtual environment
 
-Install package dependencies in the virtual environment using:
+
+**Install package dependencies in the virtual environment:**
 
 pip install -r requirements.txt
 
 
 ## Running Script
 
-To execute the script run the following from the project root directory:
+**Execute the script from project root directory:**
 
 python3 src/record_events.py
 
