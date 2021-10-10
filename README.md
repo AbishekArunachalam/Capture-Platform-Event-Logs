@@ -23,22 +23,24 @@ port = 3306
 
 **Create a virtual environment for the project:**
 
+
+```
 python3 -m venv env_name
 
 source env_name/bin/activate
 
 deactivate - to exit virtual environment  
-
+```
 
 **Install package dependencies in the virtual environment:**
-
+```
 pip install -r requirements.txt
-
+```
 
 ## Running Script
 
 **Execute the script from project root directory:**
-
+```
 python3 src/record_events.py
-
+```
 
