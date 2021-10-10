@@ -1,4 +1,4 @@
-# Capture_Platform_Event_Logs
+# Capture-Platform-Event-Logs
 The script establishes connection and ingests platform event logs in a JSON file to a MySQL database
 
 ## Overview
