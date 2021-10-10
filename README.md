@@ -27,7 +27,7 @@ python3 -m venv env_name
 
 source env_name/bin/activate
 
-deactivate - to exit virtual environment
+deactivate - to exit virtual environment  
 
 
 **Install package dependencies in the virtual environment:**
