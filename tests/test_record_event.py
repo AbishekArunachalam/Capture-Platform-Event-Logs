@@ -1,7 +1,7 @@
 import unittest
 import configparser
 from sqlalchemy import exc
-from src.record_event import EventCapture
+from src.record_events import EventCapture
 
 
 class TestEventCapture(unittest.TestCase):
