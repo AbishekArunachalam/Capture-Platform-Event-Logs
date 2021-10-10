@@ -1,0 +1,38 @@
+[
+    {
+        "Type": "EmailSent",
+        "Payload": {
+            "ID": "36b0745d-1de0-4c7b-83ea-b50af86af5ef",
+            "SentAt": "2021-01-01T08:04:54Z"
+        },
+        "RecordedAt": "2021-01-01T08:04:54Z"
+    },
+    {
+        "Type": "EmailUndelivered",
+        "Payload": {
+            "ID": "36b0745d-1de0-4c7b-83ea-b50af86af5ef",
+            "UndeliveredAt": "2021-01-01T08:04:54Z"
+        },
+        "RecordedAt": "2021-01-01T08:04:54Z"
+    },
+    {
+        "Type": "EmailDelivered",
+        "Payload": {
+            "ID": "f8538880-7e57-40ff-9f6a-1aae9dafd392"
+            "DeliveredAt": "2021-01-01T08:08:24Z"
+        },
+        "RecordedAt": "2021-01-01T08:08:24Z"
+    },
+    {
+        "Type": "EmailSent",
+        "Payload": {
+            "ID": "f8538880-7e57-40ff-9f6a-1aae9dafd392",
+            "SentAt": "2021-01-01T08:08:24Z"
+        },
+        "RecordedAt": "2021-01-01T08:08:24Z"
+    },
+    {
+        "Type": "EmailSent",
+        "Payload": {
+            "ID": "e766a351-e201-4a13-9bea-6257aa969757",
+            "SentAt":"2021-01-0
